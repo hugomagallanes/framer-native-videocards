@@ -1,10 +1,14 @@
-# Native iOS Dailymotion player
 [![license](https://img.shields.io/github/license/bpxl-labs/RemoteLayer.svg)](https://opensource.org/licenses/MIT)
 ![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)
 
-<!-- <img src="https://raw.githubusercontent.com/hugomagallanes/nativeIOSDailymotionPlayer/master/projectCover%402x.png" width="375"> -->
+# Native videocard
 
 Native videocards featuring auto-playing and with a loading animation.
+
+
+<img src="https://raw.githubusercontent.com/hugomagallanes/nativeIOSDailymotionPlayer/master/projectCover%402x.png" width="375">
+
+
 
 
 ### Installation
@@ -56,6 +60,6 @@ Loading animation is a separate class inside the nativeVideocard` file, because 
 ##### Stop animation
 ```coffeescript
 @.{layerName}.LoadAnimation().StopAnimation()
-```
+``
 
 As an additional step, do not forget to hide the parent layer when stopping the animation.
