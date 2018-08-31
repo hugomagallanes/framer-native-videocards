@@ -6,7 +6,7 @@
 Native videocards featuring auto-playing and with a loading animation.
 
 
-<img src="https://raw.githubusercontent.com/hugomagallanes/nativeIOSDailymotionPlayer/master/projectCover%402x.png" width="375">
+<!-- <img src="https://raw.githubusercontent.com/hugomagallanes/nativeIOSDailymotionPlayer/master/projectCover%402x.png" width="375"> -->
 
 
 
